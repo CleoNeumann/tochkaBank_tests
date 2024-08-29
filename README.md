@@ -22,7 +22,7 @@
 <img width="7%" title="IntelliJ IDEA" src="media/logo/Idea.svg">
 <img width="7%" title="Java" src="media/logo/Java.svg">
 <img width="7%" title="Gradle" src="media/logo/Gradle.svg">
-<img width="7%" title="JUnit5" src="media/logo/JUnit5.svg">
+<img width="7%" title="JUnit5" src="media/logo/Junit5.svg">
 <img width="7%" title="Selenide" src="media/logo/Selenide.svg">
 <img width="7%" title="Jenkins" src="media/logo/Jenkins.svg">
 <img width="7%" title="Selenoid" src="media/logo/Selenoid.svg">
