@@ -1,6 +1,7 @@
 package pages;
 
 import com.codeborne.selenide.SelenideElement;
+import org.openqa.selenium.Keys;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byTagAndText;
@@ -29,6 +30,11 @@ public class CustomsCalculatorPage {
     public CustomsCalculatorPage selectProduct(String name) {
         productInput.setValue(name);
         sleep(3000);
+        while (!productInput.text().equalsIgnoreCase(name)) {
+            productInput.sendKeys(Keys.chord(Keys.CONTROL, "a", Keys.CLEAR));
+            productInput.setValue(name);
+            sleep(3000);
+        }
         productSelector.click();
         return this;
     }
