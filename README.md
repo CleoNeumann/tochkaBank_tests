@@ -128,7 +128,7 @@ clean ${TASK}
 <details>
   <summary>Демо видео запуска тестов</summary>
 <p align="center">
-  <img width="100%" title="Selenoid Video" src="media/video/video.gif">
+  <img width="80%" title="Selenoid Video" src="media/video/video.gif">
 </p>
 </details>
 
