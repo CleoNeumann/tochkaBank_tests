@@ -38,7 +38,7 @@ public class MainPageTests extends TestBase {
 
     @ParameterizedTest(name = "Тест негативной авторизации {0}")
     @ValueSource(strings = {
-            "admin",
+            "00000",
             "123"
     })
     void negativeAuthorizationTest(String value) {
