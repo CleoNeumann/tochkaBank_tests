@@ -77,7 +77,7 @@ clean ${TASK}
 <details>
   <summary>Сборка в Jenkins</summary>
 <p align="center">
-<img width="70%" title="Jenkins" src="media/screenshots/Jenkins.png">
+<img width="100%" title="Jenkins" src="media/screenshots/Jenkins.png">
 </p>
 </details>
 
@@ -87,19 +87,19 @@ clean ${TASK}
 #### Превью
 
 <p align="center">
-<img width="70%" title="AllureReportPreview" src="media/screenshots/AllureReportPreview.png">
+<img width="100%" title="AllureReportPreview" src="media/screenshots/AllureReportPreview.png">
 </p>
 
 #### Результат выполнения теста
 
 <p align="center">
-<img width="70%" title="AllureReport" src="media/screenshots/AllureReport.png">
+<img width="100%" title="AllureReport" src="media/screenshots/AllureReport.png">
 </p>
 
 #### Графики
 
 <p align="center">
-<img width="70%" title="AllureReportGraphs" src="media/screenshots/AllureReportGraphs.png">
+<img width="100%" title="AllureReportGraphs" src="media/screenshots/AllureReportGraphs.png">
 </p>
 
 </details>
@@ -107,28 +107,28 @@ clean ${TASK}
 <details>
   <summary>Интеграция с Allure TestOps</summary>
 <p align="center">
-<img width="70%" title="AllureTestOps" src="media/screenshots/AllureTestOps.png">
+<img width="100%" title="AllureTestOps" src="media/screenshots/AllureTestOps.png">
 </p>
 </details>
 
 <details>
   <summary>Интеграция с Jira</summary>
 <p align="center">
-<img width="70%" title="Jira" src="media/screenshots/Jira.png">
+<img width="100%" title="Jira" src="media/screenshots/Jira.png">
 </p>
 </details>
 
 <details>
   <summary>Уведомление в Telegram</summary>
 <p align="center">
-<img width="70%" title="Telegram" src="media/screenshots/Telegram.png">
+<img width="60%" title="Telegram" src="media/screenshots/Telegram.png">
 </p>
 </details>
 
 <details>
   <summary>Демо видео запуска тестов</summary>
 <p align="center">
-  <img title="Selenoid Video" src="media/video/video.gif">
+  <img width="100%" title="Selenoid Video" src="media/video/video.gif">
 </p>
 </details>
 
