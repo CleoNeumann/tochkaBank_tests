@@ -19,18 +19,18 @@
 ## ☑️ Использованные технологии и инструменты
 
 <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="media/logo/Idea.svg">
-<img width="7%" title="Java" src="media/logo/Java.svg">
-<img width="7%" title="Gradle" src="media/logo/Gradle.svg">
-<img width="7%" title="JUnit5" src="media/logo/Junit5.svg">
-<img width="7%" title="Selenide" src="media/logo/Selenide.svg">
-<img width="7%" title="Jenkins" src="media/logo/Jenkins.svg">
-<img width="7%" title="Selenoid" src="media/logo/Selenoid.svg">
-<img width="7%" title="Allure Report" src="media/logo/Allure.svg">
-<img width="7%" title="Allure TestOps" src="media/logo/Allure_TO.svg">
-<img width="7%" title="GitHub" src="media/logo/GitHub.svg">
-<img width="7%" title="Telegram" src="media/logo/Telegram.svg">
-<img width="7%" title="Jira" src="media/logo/Jira.svg">
+<a href="https://www.jetbrains.com/idea/"><img width="7%" title="IntelliJ IDEA" src="media/logo/Idea.svg"></a>
+<a href="https://www.java.com/"><img width="7%" title="Java" src="media/logo/Java.svg"></a>
+<a href="https://gradle.org/"><img width="7%" title="Gradle" src="media/logo/Gradle.svg"></a>
+<a href="https://junit.org/junit5/"><img width="7%" title="JUnit5" src="media/logo/Junit5.svg"></a>
+<a href="https://selenide.org/"><img width="7%" title="Selenide" src="media/logo/Selenide.svg"></a>
+<a href="https://www.jenkins.io/"><img width="7%" title="Jenkins" src="media/logo/Jenkins.svg"></a>
+<a href="https://aerokube.com/selenoid/"><img width="7%" title="Selenoid" src="media/logo/Selenoid.svg"></a>
+<a href="https://allurereport.org/"><img width="7%" title="Allure Report" src="media/logo/Allure.svg"></a>
+<a href="https://qameta.io/"><img width="7%" title="Allure TestOps" src="media/logo/Allure_TO.svg"></a>
+<a href="https://github.com/"><img width="7%" title="GitHub" src="media/logo/GitHub.svg"></a>
+<a href="https://web.telegram.org/k/"><img width="7%" title="Telegram" src="media/logo/Telegram.svg"></a>
+<a href="https://www.atlassian.com/ru/software/jira/"><img width="7%" title="Jira" src="media/logo/Jira.svg"></a>
 </p>
 
 - В данном проекте автотесты написаны на языке <code>Java</code> с использованием фреймворка для тестирования <code>Selenide</code>.
